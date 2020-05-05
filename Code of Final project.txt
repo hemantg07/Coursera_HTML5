@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <meta charset = "UTF-8">
+      <title> Final_project </title>
+
+</head>
+<body>
+      <header>
+             <h1><span style ="color:black ; background-color:yellow"><b><big>Hemant gautam</b></big></h1></span>
+             <nav> 
+                 <a href = "https://www.covid19india.org/">Corona</a>
+                 <a href = "www.google.com">Google</a>
+                 <a href = "https://www.youtube.com/">Youtube</a>
+                 <a href = "https://www.netflix.com/browse"style = "Background-color : Yellow">Netflix</a>
+             </nav>
+      </header>
+      <section>
+               <h2><big><b>Favourite Foods</big></b></h2>
+               <ul style = "Background-color : Yellow">
+                                                       <li>Pizza</li>
+                                                       <li>Burger</li>
+                                                       <li>French Fries</li>
+                                                       <li>Coke</li> 
+
+               </ul>
+      </section>
+      <section>
+               <h2><big><b>Achievements</big></b></h2>
+               Progress in this course (100%)
+                                             <progress value = "100"max = 100 %></progress>
+               <br>
+               Progress in the Specialization capstone (20%)
+                                                            <progress value="20" max="100"></progress>
+               <br>
+               Progress in life goal <span style = "Background-color : Yellow">(25%)
+                                           <progress value="25" max="100"></progress>
+                                     </span>
+      </section>
+      <section>
+        <h2>More About Me</h2>
+        <details>
+            <summary>My Childhood</summary><span style = "Background-color : Yellow">I grew up in Mathura which is the birth place of lord Krishna. For me , It's always the best place to live </span>
+        </details>
+     </section>
+    <footer>
+        <img src="http://www.intro-webdesign.com/images/newlogo.png" alt="Web Design For Everyone">
+         This page was created by <span style = "Background-color : Yellow">Hemant gautam</span> & Colleen van Lent.
+        To learn more about web design, visit
+        <a href="http://www.intro-webdesign.com/">Intro to Web Design</a>
+    </footer>
+</body>
+</html>
+ 
+      </section>
+
+</body>
+</html>
